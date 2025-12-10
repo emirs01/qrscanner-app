@@ -3,7 +3,6 @@ import { View } from 'react-native';
 import "./global.css";
 import AppNavigator from './src/navigation/AppNavigator';
 
-
 // 
 //   Created BY emirs 
 //  

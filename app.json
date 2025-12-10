@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "QR Scanner",
+    "slug": "qr-scanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/qr.png",
+    "userInterfaceStyle": "black",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    }
+  }
+}
